@@ -1,2 +1,0 @@
-# eCart
-Next JS Project
